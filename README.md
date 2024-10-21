@@ -13,7 +13,6 @@ Module is used to import or export CMS Blocks and Pages.
 ## Installation
 
 ```
-Steps Here
 Upload into app/code/Piranha
 
 bin/magento module:enable Piranha_CmsImporter
