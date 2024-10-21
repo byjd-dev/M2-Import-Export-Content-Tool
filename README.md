@@ -5,7 +5,6 @@
 - [Summary](#summary)
 - [Installation](#installation)
 - [Configurations](#configurations)
-- [License](#license)
 
 ## Summary
 
