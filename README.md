@@ -24,4 +24,4 @@ Steps Here
 2. Navigate to Content > Elements > Import/Export
 ```
 
-![Module Configuration Screen](media/slide-1.png)
+![Module Configuration Screen](slide-1.png)
